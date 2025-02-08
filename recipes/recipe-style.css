@@ -1,0 +1,30 @@
+* {
+    font-family: "Book Antiqua", "Trebuchet MS" sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.centered.description {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.centered.description-header {
+    font-weight: 800;
+    font-size: x-large;
+}
+
+#home-link {
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+}
